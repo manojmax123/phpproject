@@ -1,0 +1,790 @@
+﻿msgid "would"
+msgstr "होगा"
+
+msgid "Hindi"
+msgstr "हिन्दी"
+
+msgid "CodeIgniter"
+msgstr "कोड"
+
+msgid "User Guide"
+msgstr "उपयोगकर्ता गाइड"
+
+msgid "If you are exploring CodeIgniter for the very first time, you should start by reading the"
+msgstr "आप बहुत पहले समय के लिए CodeIgniter तलाश रहे हैं, तो आप पढ़ने के द्वारा शुरू कर देना चाहिए"
+
+msgid "Welcome to CodeIgniter!"
+msgstr "CodeIgniter उपयोग करने के लिए आपका स्वागत है!"
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+msgid "Control panel"
+msgstr "कंट्रोल पैनल"
+
+msgid "Hello"
+msgstr "हैलो"
+
+msgid "New Orders"
+msgstr "नए आदेश"
+
+ 
+msgid "Bounce Rate"
+msgstr "बाउंस दर"
+
+msgid "User Registrations"
+msgstr "प्रयोक्ता पंजीकृत"
+ 
+msgid "Unique Visitors"
+msgstr "अनोखा आगंतुक"
+
+msgid "More info"
+msgstr "अधिक जानकारी"
+
+msgid "Home"
+msgstr "होम"
+
+msgid "The page you are looking at is being generated dynamically by CodeIgniter"
+msgstr "आप देख रहे हैं पृष्ठ CodeIgniter द्वारा गतिशील रूप से उत्पन्न की जा रही है"
+
+msgid "Visitors"
+msgstr "आगंतुक"
+
+msgid "Mobile TV"
+msgstr "मोबाइल टीवी"
+
+msgid "Video"
+msgstr "वीडियो"
+
+msgid "Search"
+msgstr "खोज"
+
+msgid "Upload"
+msgstr "अपलोड"
+
+msgid "Bulk"
+msgstr "थोक"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+msgid "Utility"
+msgstr "उपयोगिता"
+
+msgid "Category"
+msgstr "श्रेणी"
+
+msgid "Transcode"
+msgstr "ट्रांसकोड"
+ 
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "Start"
+msgstr "प्रारंभ"
+
+msgid "End"
+msgstr "अन्त"
+
+msgid "Date"
+msgstr "तिथि"
+
+msgid "Time"
+msgstr "समय"
+
+msgid "Description"
+msgstr "विवरण"
+
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+msgid "Publish"
+msgstr "प्रकाशित"
+
+msgid "Select"
+msgstr "चयन करें"
+
+msgid "Edit"
+msgstr "संपादित"
+
+msgid "Delete"
+msgstr "हटाएं"
+
+msgid "Showing"
+msgstr "दिखा रहा है"
+
+msgid "of"
+msgstr "की"
+
+msgid "total results"
+msgstr "कुल परिणाम"
+
+msgid "Welcome"
+msgstr "स्वागत"
+
+msgid "Device"
+msgstr "डिवाइस"
+
+msgid "Flavor"
+msgstr "स्वाद"
+
+msgid "Flavors"
+msgstr "स्वाद"
+
+msgid "Bitrate"
+msgstr "बिटरेट"
+
+msgid "Audio"
+msgstr "ऑडियो"
+
+msgid "Resolution"
+msgstr "संकल्प"
+
+msgid "Frame Rate (FPS)"
+msgstr "फ्रेम दर (एफपीएस)"
+
+msgid "Keyframe Rate"
+msgstr "मुख्य फ्रेम दर"
+
+msgid "Height"
+msgstr "लंबाई"
+
+msgid "Width"
+msgstr "चौड़ाई"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "Control Panel"
+msgstr "नियंत्रण कक्ष"
+
+msgid "No Records Found"
+msgstr "कोई रिकॉर्ड नहीं मिला"
+
+msgid "Are you sure you want to Delete video"
+msgstr "आप आप वीडियो को हटाना चाहते हैं"
+
+msgid "Video Updated successfully."
+msgstr "वीडियो सफलतापूर्वक अद्यतन."
+
+msgid "Upload Video"
+msgstr "वीडियो अपलोड."
+
+msgid "Video Uploaded successfully."
+msgstr "वीडियो सफलतापूर्वक अपलोड."
+
+msgid "Choose Media"
+msgstr "मीडिया चुनें."
+
+msgid "Filename"
+msgstr "फाईल का नाम"
+
+msgid "FileSize"
+msgstr "फाइल का आकार"
+
+msgid "File Type"
+msgstr "फ़ाइल प्रकार"
+
+msgid "Publish Date"
+msgstr "प्रकाशित की तारीख"
+
+msgid "End Date"
+msgstr "अन्त तिथि"
+
+msgid "Start Date"
+msgstr "प्रारंभ तिथि"
+
+msgid "Keywords"
+msgstr "कीवर्ड "
+
+msgid "New User Registration"
+msgstr "नई उपयोगकर्ता पंजीकरण"
+
+msgid "Registration Form"
+msgstr "पंजीकरण फार्म"
+ 
+msgid "Always"
+msgstr "हमेशा"
+ 
+msgid "Basic"
+msgstr "मूल"
+ 
+msgid "Advanced"
+msgstr "उन्नत"
+ 
+msgid "Scheduling"
+msgstr "निर्धारण"
+ 
+msgid "Thumbnail"
+msgstr "थंबनेल"
+ 
+msgid "Name"
+msgstr "नाम"
+ 
+msgid "Period"
+msgstr "अवधि"
+ 
+msgid "Save"
+msgstr "जमा"
+ 
+msgid "Add"
+msgstr "जोड़ें"
+ 
+msgid "Parent"
+msgstr "जनक"
+ 
+msgid "Submit"
+msgstr "जमा करें"
+ 
+msgid "Back"
+msgstr "पीछे"
+
+msgid "Cancel"
+msgstr "रद्द"
+
+msgid "Update"
+msgstr "अपडेट"
+
+msgid "Type"
+msgstr "प्रकार"
+
+msgid "Are you sure you want to delete Category"
+msgstr "क्या आप श्रेणी को हटाना चाहते हैं"
+
+
+msgid "No Record Found"
+msgstr "नहीं मिला रिकॉर्ड"
+
+msgid "Users"
+msgstr "यूजर"
+
+msgid "Add New"
+msgstr "नई जोड़ें"
+
+msgid "Action"
+msgstr "कार्रवाई"
+
+msgid "Created Date"
+msgstr "दिनांक"
+
+msgid "Gender"
+msgstr "लिंग"
+
+msgid "Role"
+msgstr "रोल"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "User Name"
+msgstr "यूजर नेम "
+
+msgid "Dimensions"
+msgstr "परिमाण"
+
+msgid "Size"
+msgstr "माप"
+
+msgid "Grab"
+msgstr "पकड़ो"
+
+msgid "Image"
+msgstr "छवि"
+
+msgid "Play"
+msgstr "चलायें"
+
+msgid "Pause"
+msgstr "रोकें"
+
+msgid "Hour"
+msgstr "घंटा"
+
+msgid "Minute"
+msgstr "मिनट"
+
+msgid "Second"
+msgstr "क्षण"
+
+msgid "from"
+msgstr "से"
+
+msgid "Crop"
+msgstr "काटना"
+
+msgid "New"
+msgstr "नई"
+
+msgid "Default Image Uploaded successfully."
+msgstr "डिफ़ॉल्ट छवि सफलतापूर्वक अपलोड."
+
+msgid "Image Croped successfully."
+msgstr "छवि सफलतापूर्वक Croped"
+
+msgid "Default Image Updated successfully."
+msgstr "डिफ़ॉल्ट छवि सफलतापूर्वक अद्यतन."
+
+msgid "Image deleted successfully."
+msgstr "छवि को सफलतापूर्वक नष्ट कर दिया."
+
+msgid "Please Select a default image"
+msgstr "एक डिफ़ॉल्ट छवि का चयन करें"
+
+msgid "Download"
+msgstr "डाउनलोड"
+
+msgid "Set as Default"
+msgstr "डिफ़ॉल्ट के रूप में सेट करें"
+
+msgid "Default"
+msgstr "डिफ़ॉल्ट"
+
+msgid "File Not Found"
+msgstr "फ़ाइल नहीं मिली"
+
+msgid "Close"
+msgstr "बंद"
+
+
+msgid "Device Name"
+msgstr "डिवाइस का नाम"
+
+msgid "Flavor Name"
+msgstr "स्वाद का नाम"
+
+msgid "Video Bitrate"
+msgstr "वीडियो बिटरेट"
+
+msgid "Audio Bitrate"
+msgstr "ऑडियो बिटरेट"
+
+msgid "Assigned Time"
+msgstr "नियत समय"
+
+msgid "Completed Time"
+msgstr "पूरे किए समय"
+
+
+msgid "Next →"
+msgstr "अगला →	"
+
+msgid "First"
+msgstr "प्रथम"
+
+msgid "The Content Category field is required."
+msgstr "कन्टैंट श्रेणी फ़ील्ड की आवश्यकता है."
+
+msgid "Choose CSV"
+msgstr "सीएसवी चुनें"
+
+msgid "Download Sample File"
+msgstr "डाउनलोड नमूना फ़ाइल"
+
+msgid "From CSV"
+msgstr "सीएसवी से"
+
+msgid "From FTP"
+msgstr "एफ़टीपी से"
+
+
+msgid "User Role"
+msgstr "उपयोगकर्ता भूमिका"
+
+msgid "Role Setting"
+msgstr "भूमिका सेटिंग"
+
+msgid "Role"
+msgstr "भूमिका"
+
+msgid "Permission"
+msgstr "अनुमति"
+
+msgid "Add Role"
+msgstr "भूमिका जोड़ें"
+
+msgid "Profile"
+msgstr "रूपरेखा"
+
+msgid "Other"
+msgstr "अन्य"
+
+msgid "Source"
+msgstr "स्रोत"
+
+msgid "Url"
+msgstr "यूआरएल"
+
+msgid "Content"
+msgstr "सामग्री"
+
+msgid "Provider"
+msgstr "प्रदाता"
+
+msgid "Youtube"
+msgstr "Youtube"
+
+msgid "Flavors Updated successfully."
+msgstr "Flavors सफलतापूर्वक अद्यतन."
+
+msgid "Player"
+msgstr "प्लेयर"
+
+msgid "General"
+msgstr "सामान्य"
+
+msgid "Logo"
+msgstr "प्रतीक चिन्ह"
+
+msgid "Caption"
+msgstr "शीर्षक"
+
+msgid "Right Click"
+msgstr "राइट क्लिक"
+
+msgid "Set as default"
+msgstr "डिफ़ॉल्ट के रूप में सेट करें"
+
+msgid "Skin"
+msgstr "त्वचा"
+
+msgid "Aspect Ratio"
+msgstr "पहलू अनुपात"
+
+msgid "Social Sharing"
+msgstr "सामाजिक शेयरिंग"
+
+msgid "Repeat"
+msgstr "दोहराएँ"
+
+msgid "Controls"
+msgstr "नियंत्रण"
+
+msgid "Auto"
+msgstr "स्वत:"
+
+msgid "Google Analytics"
+msgstr "गूगल विश्लेषिकी"
+
+msgid "Androidhls"
+msgstr "Androidhls"
+
+msgid "Related"
+msgstr "संबंधित"
+
+msgid "Mute"
+msgstr "मौन"
+
+msgid "Link"
+msgstr "संपर्क"
+
+msgid "Position"
+msgstr "स्थिति"
+
+msgid "Hide"
+msgstr "छिपाएँ"
+
+msgid "Margin"
+msgstr "अन्तर"
+
+msgid "Color"
+msgstr "रंग"
+
+msgid "Font"
+msgstr "लिपि"
+
+msgid "Family"
+msgstr "परिवार"
+
+msgid "Opacity"
+msgstr "अपारदर्शिता"
+
+msgid "Background"
+msgstr "पृष्ठभूमि"
+
+msgid "Window"
+msgstr "खिड़की"
+
+msgid "Text"
+msgstr "पाठ"
+
+msgid "About"
+msgstr "के बारे में"
+
+msgid "About Link"
+msgstr "संपर्क के बारे में"
+
+msgid "About Text"
+msgstr "पाठ के बारे में"
+
+msgid "Choose Logo"
+msgstr "प्रतीक चिन्ह चुनें."
+
+msgid "Comment Section"
+msgstr "समीक्षा भाग"
+
+msgid "Comment"
+msgstr "समीक्षा"
+
+
+msgid "Content Title"
+msgstr "सामग्री शीर्षक"
+
+msgid "User Name"
+msgstr "उपयोक्ता का नाम"
+
+msgid "IP"
+msgstr "आईपी"
+
+msgid "Create Date"
+msgstr "तिथि बनाएँ"
+
+msgid "Update Date"
+msgstr "अद्यतन तिथि"
+
+msgid "Approved"
+msgstr "स्वीकृत"
+
+msgid "Enter Comment"
+msgstr "सामग्री लिखें"
+
+msgid "Enter Content Title"
+msgstr "सामग्री शीर्षक लिखें"
+
+msgid "Enter User Name"
+msgstr "उपयोक्ता का नाम लिखें"
+
+msgid "Enter User IP"
+msgstr "प्रयोक्ता आईपी दर्ज"
+
+msgid "First Name"
+msgstr "पहला नाम"
+
+msgid "Last Name"
+msgstr "अंतिम नाम"
+
+msgid "Role added successfully"
+msgstr "नई भूमिका सफलतापूर्वक गयी"
+
+msgid "User(s) having this role, You Can't Delete this"
+msgstr "उपयोगकर्ता (ओं) , आप यह नहीं हटा सकते"
+
+msgid "Role deleted successfully"
+msgstr "भूमिका सफलतापूर्वक नष्ट कर दिया"
+
+msgid "User deleted successfully."
+msgstr "प्रयोक्ता को सफलतापूर्वक नष्ट कर दिया गया."
+
+msgid "Access Denied"
+msgstr "प्रवेश निषेध"
+
+msgid "User updated successfully."
+msgstr "प्प्रयोक्ता सफलतापूर्वक अपडेट."
+
+msgid "Username"
+msgstr "यूजर नेम "
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "Confirm Password"
+msgstr "पासवर्ड की पुष्टि"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "Select"
+msgstr "चयन करें"
+
+msgid "Cancel"
+msgstr "रद्द करें"
+
+msgid "Add Role"
+msgstr "भूमिका जोड़ें"
+
+msgid "New Role"
+msgstr "नया रोल"
+
+msgid "Roll Name"
+msgstr "रोल नाम"
+
+msgid "User Role"
+msgstr "उपयोगकर्ता भूमिका"
+
+msgid "Successfully Change"
+msgstr "परिवर्तन सफलतापूर्वक"
+
+msgid "Flower status change for Content id"
+msgstr "सामग्री आईडी के लिए फूल स्थिति परिवर्तन"
+
+msgid "Connect"
+msgstr "कनेक्ट"
+
+msgid "Port"
+msgstr "पोर्ट"
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "User Name"
+msgstr "उपयोक्ता का नाम"
+
+msgid "FTP Server"
+msgstr "एफ़टीपी सर्वर"
+
+msgid "Promo"
+msgstr "प्रोमो"
+
+msgid "Cut Promo"
+msgstr "कट प्रोमो"
+
+msgid "Player Settings Updated successfully."
+msgstr "प्लेयर सेटिंग्स सफलतापूर्वक अद्यतन."
+
+
+msgid "Record deleted successfully"
+msgstr "रिकॉर्ड सफलतापूर्वक नष्ट कर दिया"
+
+msgid "Add Transcode"
+msgstr "ट्रांसकोड जोड़ें"
+
+
+msgid "Category have some records therefore you can\'t delete this"
+msgstr "इस श्रेणी में कुछ रिकॉर्ड है इसलिए आप इसे नष्ट नहीं कर सकते"
+
+
+msgid "Add Category"
+msgstr "श्रेणी जोड़ें"
+
+
+msgid "Update Comment"
+msgstr "अद्यतन टिप्पणी"
+
+msgid "Video Deleted successfully."
+msgstr "वीडियो सफलतापूर्वक नष्ट कर दिया."
+
+msgid "Category Successfully Updated"
+msgstr "श्रेणी सफलतापूर्वक अपडेट"
+
+msgid "Category has been Added Successfully"
+msgstr "श्रेणी को सफलता पूर्वक जोड़ दिया गया है"
+
+msgid "Category Allready exist"
+msgstr "श्रेणी मौजूद है"
+
+msgid "Transcode Successfully Updated"
+msgstr "सफलतापूर्वक अपडेट ट्रांसकोड"
+
+msgid "Transcode Successfully Added"
+msgstr "ट्रांसकोड को सफलता पूर्वक जोड़ दिया गया है"
+
+msgid "Video content saved successfully in database"
+msgstr "वीडियो सामग्री डेटाबेस में सफलतापूर्वक बचाया"
+
+msgid "This video content is not saved in database"
+msgstr "यह वीडियो सामग्री डेटाबेस में सहेजा नहीं गया है"
+
+msgid "This video content is not available in directory"
+msgstr "यह वीडियो सामग्री निर्देशिका में उपलब्ध नहीं है"
+
+msgid "Video file format is incorrect."
+msgstr "वीडियो फ़ाइल स्वरूप ग़लत है."
+
+msgid "Please upload csv files only."
+msgstr "सीएसवी फाइल ही अपलोड करें."
+
+msgid "Access Denied! Contact Admin!"
+msgstr "प्रवेश निषेध! संपर्क एचआर!"
+
+msgid "Live Stream"
+msgstr "लाइव स्ट्रीम"
+
+msgid "Live Streaming"
+msgstr "लाइव स्ट्रीमिंग"
+
+msgid "Bulk Upload"
+msgstr "थोक अपलोड"
+
+msgid "Upload failed."
+msgstr "अपलोड विफल रहा है."
+
+msgid "Username and password is wrong."
+msgstr "उपयोगकर्ता नाम और पासवर्ड गलत है."
+
+msgid "Could not connect with server."
+msgstr "सर्वर से कनेक्ट नहीं कर सका."
+
+msgid "Please fill all Field."
+msgstr "सभी क्षेत्र भरें."
+
+msgid "This is not a Video File. Please Select Video File Only!"
+msgstr "यह एक वीडियो फ़ाइल नहीं है.कृपया केवल वीडियो फ़ाइल चुनें!"
+
+msgid "Subscription"
+msgstr "सदस्यता"
+
+msgid "Subscription Updated Successfully."
+msgstr "सदस्यता सफलतापूर्वक अपडेट."
+
+msgid "Subscription Added Successfully."
+msgstr "सदस्यता सफलतापूर्वक जोड़ा गया."
+
+msgid "Subscription Title Already exists."
+msgstr "सदस्यता शीर्षक पहले से मौजूद है."
+
+msgid "Subscription Deleted Successfully."
+msgstr "सदस्यता सफलतापूर्वक नष्ट कर दिया."
+
+msgid "Details"
+msgstr "विवरण"
+
+msgid "Channels"
+msgstr "चैनल"
+
+msgid "Ratings"
+msgstr "रेटिंग"
+
+msgid "Feature Video"
+msgstr "फ़ीचर वीडियो"
+
+msgid "Youtube"
+msgstr "यूटीयूब"
+
+msgid "Progress"
+msgstr "प्रगति"
+
+msgid "Form"
+msgstr "फॉर्म"
+
+msgid "Last"
+msgstr "लास्ट"
+
+msgid "Choose"
+msgstr "चुने"
+
+msgid "List"
+msgstr "लिस्ट"
+
+msgid "Language changed successfully."
+msgstr "भाषा सफलतापूर्वक बदल दिया है."
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
